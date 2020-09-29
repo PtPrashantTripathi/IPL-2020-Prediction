@@ -47,11 +47,11 @@
     text-align: left;
     font-size: 31px;
 }
-.mi-image{
+.team_2{
        width: 185px;
     padding-top: 62px;
 }
-.rcb{
+.team_1{
     width: 150px;
 }
 .vs{
@@ -121,14 +121,14 @@
     border: none;
     font-weight: 500;
     font-size: 12px;
-}
-    .rcb{
+	}
+    .team_1{
     width:82px;
-}
-.vs {
-    font-size: 32px;}
-
-    .mi-image {
+	}
+	.vs {
+    font-size: 32px;
+	}
+    .team_2{
     width: 110px;
     padding-top: 28px;
 }
