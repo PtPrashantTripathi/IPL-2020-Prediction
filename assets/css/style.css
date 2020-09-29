@@ -13,10 +13,10 @@
     }
 .leftdiv h6{
     color: white;
-    font-size: 23px;
-    font-style: italic;
+    font-size: 23px !important;
+    /*! font-style: italic; */
 }
-.leftdiv button{
+.leftdiv a{
     margin-top: -38px;
     float: right;
     padding: 5px;
@@ -55,7 +55,7 @@
     width: 150px;
 }
 .vs{
-    font-size: 101px;
+    width: 56px;
     color: red;
     padding-top: 56px;
 }
@@ -67,9 +67,14 @@
         font-size: 24px;
     font-weight: 500;
 }
-.probility{
-        color: red;
-    padding: 25px;
+.text{
+        color: #002e66;
+    padding: 0 20px;
+    width: 100%;
+}
+#win{
+    color: ebony;
+    padding: 0 20px;
     width: 100%;
 }
 .progress{
@@ -93,9 +98,12 @@
     text-align: right;
         width: 50%;
 }
-
-
-
+#tpb1{
+background: #ff3434!important;
+}
+#tpb2{
+	background: #002e66!important;
+}
 
 
 
@@ -109,6 +117,7 @@
    }
    .center_div{
     width: 95%;
+     margin-top:-95px;
    }
    .leftdiv h6{
     font-size: 17px;
@@ -130,11 +139,6 @@
 	}
     .team_2{
     width: 110px;
-    padding-top: 28px;
+    padding-top: 0px;
 }
-.teamname2{
-    padding-top: 18px;
-
-}
-
 }

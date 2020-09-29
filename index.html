@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html><head>
 	<title>IPL-2020-Prediction</title>
-	<!-- Required meta tags -->
-    <meta charset="utf-8">
+	<meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" href="assets/css/bootstrap.min.css">
 	<link rel="stylesheet" href="assets/css/style.css">
@@ -10,7 +9,6 @@
 <body>
 	<div class="container-fluid">
 		<div class="row">
-			<!-- header area start -->
 			<div class="header topheader">
 				<div class="leftdiv">
 					<h6>IPL Prediction 2020</h6>
@@ -18,52 +16,65 @@
 					<!--button><i class="fa fa-edit"></i> Follow</button-->
 				</div>
 			</div>
-			<!-- header area end -->
-
-			<!-- cart area start -->
 			<div class="main_div">
 				<div class="center_div">
 					<div class="row">
 						<div class="col-md-4 col-sm-4">
-							<h6 class="iplheading">IPL</h6>
-							<img src="assets/images/Delhi.png" class="rcb"><br>
-							<p class="teamname1">RCB</p>
+							<h6 id="mid"></h6>
+							<br>
+							<img id="ti1" class="team_2">
+							<p id="tn1" class="teamname1"></p>
 						</div>
 						<div class="col-md-4 col-sm-4">
-							<h1 class="vs">V/S</h1>
+							<br><br><br><img class="vs" src="assets/images/vs.png"/>
 						</div>
 						<div class="col-md-4 col-sm-4">
-							<h6>DATE:</h6>
-							<img src="assets/images/mi.png" class="mi-image">
-							<p class="teamname2">MI</p>
+							<h6 id="date"></h6>
+							<img id="ti2" class="team_2">
+							<p id="tn2" class="teamname2"></p>
 						</div>
-					</div><hr>
-					<!-- probility area start -->
+					</div>
+					<hr>
 					<div class="row">
-						<h3 class="probility">Provablity</h3>
+						<h3 class="text">Provablity Index :</h3>
+						<p id="win"></p>
 						<div class="col-md-6 classpro-div1">
-							<h6>Royal Challengers</h6>
-							<p>53%</p>
+							<h6 id="tnm1"></h6>
+							<p id="tp1"></p>
 						</div>
 						<div class="col-md-6 classpro-div2">
-							<h6>Indians</h6>
-							<p>47%</p>
+							<h6 id="tnm2"></h6>
+							<p id="tp2"></p>
 						</div>
 						<div class="progress">
-						  	<div class="progress-bar" style="width: 53%;background: #ff3434!important">
+						  	<div class="progress-bar"  id="tpb1" style="width: 50%;">
 						  	</div>
-							<div class="progress-bar" style="width:47%;background: #002e66!important">
+							<div class="progress-bar"  id="tpb2" style="width:50%;">
 						  	</div>
 						</div>
 					</div>
-					<!-- probility area end -->
 				</div>
 			</div>
-			<!-- cart area end -->
-			
 		</div>
 	</div>
 
+<script>
+var data = '{"Match":1,"Day":"Sat","Date":"19-Sep","IST":"7:30PM","team_1":"Mumbai","team_2":"CSK","pitch_type":"tropical","venue":"AbuDhabi","team_1_win_prob":58.7184,"team_2_win_prob":41.2816,"Result":"Mumbai"}';
+var obj = JSON.parse(data);
+document.getElementById("mid").innerHTML = "T20 " + obj.Match + " of 56";
+document.getElementById("date").innerHTML = obj.Day + "," + obj.Date + " " + obj.IST;
+document.getElementById("ti1").src ="assets/images/" + obj.team_1 + ".jpg";
+document.getElementById("ti2").src ="assets/images/" + obj.team_2 + ".jpg";
+document.getElementById("tn1").innerHTML =obj.team_1;
+document.getElementById("tn2").innerHTML =obj.team_2;
+document.getElementById("tnm1").innerHTML =obj.team_1;
+document.getElementById("tnm2").innerHTML =obj.team_2;
+document.getElementById("tp1").innerHTML =obj.team_1_win_prob+"%";
+document.getElementById("tp2").innerHTML =obj.team_2_win_prob+"%";
+document.getElementById("win").innerHTML ="Probility is higher for : <b style='color:#32CD32'>"+obj.Result+"</b>";
+document.getElementById("tpb1").style.width =obj.team_1_win_prob+"%";
+document.getElementById("tpb2").style.width =obj.team_2_win_prob+"%";
+</script>
 <script src="assets/js/jquery-3.5.1.slim.min.js"></script>
 <script src="assets/js/popper.min.js"></script>
 <script src="assets/js/bootstrap.min.js"></script>
