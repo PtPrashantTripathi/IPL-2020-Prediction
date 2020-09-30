@@ -2,7 +2,8 @@ let json = [{"Match":1,"Day":"Sat","Date":"19-Sep","IST":"7:30 PM","team_1":"Mum
 function findByKey(key, value) {
     return (item, i) => item[key] === value
 }
-var d = new Date(); 
+var ist = new Date().toLocaleString("en-US", {timeZone: "Asia/Kolkata"});
+var d = new Date(ist); 
 var formattedDate = d.toLocaleDateString('en-GB', { day: '2-digit', month: 'short'}).replace(/ /g, '-'); 
 var t = d.getHours()+(d.getMinutes()/60);
 let findParams = findByKey('Date',formattedDate);
