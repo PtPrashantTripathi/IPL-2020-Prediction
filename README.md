@@ -11,7 +11,7 @@ https://ptprashanttripathi.github.io/IPL-2020-Prediction
 
 ## Screenshot
 
-![screenshot](https://i.imgur.com/IsnJ0Ra.jpg)
+![screenshot](https://i.imgur.com/pJJoIEC.jpg)
 
 ## Disclaimer
 
