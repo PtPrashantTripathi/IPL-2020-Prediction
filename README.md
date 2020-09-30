@@ -1,4 +1,5 @@
 # IPL-2020-Prediction
+![](https://repository-images.githubusercontent.com/299325888/77f6e880-034c-11eb-8ee1-b44403c583c2)
 
 ## Deploy
 
