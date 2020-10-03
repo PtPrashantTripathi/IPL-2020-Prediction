@@ -63,7 +63,7 @@
 }
 .teamname{
         font-size: 24px;
-    font-weight: 500;
+    /*! font-weight: 500; */
 }
 .text{
         color: #002e66;
