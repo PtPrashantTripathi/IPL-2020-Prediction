@@ -10,8 +10,8 @@ let findParams = findByKey('Date',formattedDate);
 let index=json.findIndex(findParams);
 if(t>18.50 && json[index].IST==="3:30 PM") index++;
 
-document.getElementById("mid").innerHTML = "T20 " + json[index].Match + " of 56";
-document.getElementById("date").innerHTML = json[index].Day + "," + json[index].Date + "<br>" + json[index].IST;
+document.getElementById("mid").innerHTML = "IPL t20<br>" + json[index].Match + " of 56";
+document.getElementById("date").innerHTML = json[index].Day + ", " + json[index].Date + "<br>" + json[index].IST;
 document.getElementById("ti1").src ="assets/images/" + json[index].team_1 + ".jpg";
 document.getElementById("ti2").src ="assets/images/" + json[index].team_2 + ".jpg";
 document.getElementById("tn1").innerHTML =json[index].team_1;

@@ -10,7 +10,7 @@
 .topheader{
         width: 100%;
         background-color: #05386b;
-        padding: 23px;
+        padding: 12px 25px;
 }
 .footer{
         width: 100%;
@@ -28,17 +28,14 @@
 }
 .leftdiv a{
     margin-top: -38px;
-    float: right;
-}
-.leftdiv a img{
-    width: 30px;
+    /*float: right;*/
 }
 .main_div{
         width: 100vw;
-        height: 80vh;
+        margin: 2vw 0;
         display: grid;
         place-items:center;
-        background-color: hsl(216deg 3% 92%);
+        background-color: hsl(0, 0%, 100%);
     }
 .center_div {
     width: 600px;
@@ -56,23 +53,15 @@
     text-align: left;
     font-size: 31px;
 }
-.team_2{
+.teamlogo{
        width: 185px;
-    /*! padding-top: 20px; */
-}
-.team_1{
-    width: 150px;
-}
+ }
 .vs{
     width: 56px;
     color: red;
-    padding-top: 56px;
+    /*! padding-top: 56px; */
 }
-.teamname1{
-        font-size: 24px;
-    font-weight: 500;
-}
-.teamname2{
+.teamname{
         font-size: 24px;
     font-weight: 500;
 }
@@ -113,7 +102,9 @@ background: #ff3434!important;
 #tpb2{
 	background: #002e66!important;
 }
-
+small{
+    color: white;
+}
 
 
 
@@ -126,29 +117,13 @@ background: #ff3434!important;
    }
    .center_div{
     width: 95%;
-     margin-top:5%;
+     /*! margin-top:5%; */
     padding: 30px;
    }
    .leftdiv h6{
     font-size: 17px;
    }
-   .leftdiv button {
-    margin-top: -30px;
-    float: right;
-    padding: 4px;
-    border-radius: 17px;
-    border: none;
-    font-weight: 500;
-    font-size: 12px;
+    .teamlogo{
+    width:100px;
 	}
-    .team_1{
-    width:82px;
-	}
-	.vs {
-    font-size: 32px;
-	}
-    .team_2{
-    width: 110px;
-    padding-top: 0px;
-}
 }
