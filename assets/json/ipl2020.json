@@ -762,9 +762,9 @@
 		"team_2":"Hyderabad",
 		"pitch_type":"tropical",
 		"venue":"AbuDhabi",
-		"team_1_win_prob":0.48300,
-		"team_2_win_prob":0.51700,
-		"Result":"Hyderabad"
+		"team_1_win_prob":0.51700,
+		"team_2_win_prob":0.48300,
+		"Result":"Delhi"
 	},
 	{
 		"Match":60,
@@ -772,11 +772,11 @@
 		"Date":"10 Nov 2020",
 		"IST":"7:30PM",
 		"team_1":"Mumbai",
-		"team_2":"TBD",
+		"team_2":"Delhi",
 		"pitch_type":"dry",
 		"venue":"Dubai",
-		"team_1_win_prob":50,
-		"team_2_win_prob":50,
-		"Result":"TBH"
+		"team_1_win_prob":0.582895,
+		"team_2_win_prob":0.417105,
+		"Result":"Mumbai"
 	}
 ]
