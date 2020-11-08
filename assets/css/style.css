@@ -32,7 +32,7 @@
 }
 .main_div{
         width: 100vw;
-        margin: 2vw 0;
+        /*! margin: 2vw 0; */
         display: grid;
         place-items:center;
         background-color: hsl(0, 0%, 100%);
@@ -137,13 +137,13 @@ small{
 }
 
 table {
-    width: 100%;
+    width: 100px;
     background: #fff;
     border: 1px solid #dedede
 }
 
 table thead tr th {
-    padding: 20px;
+    padding: 10px 20px;
     border: 1px solid #dedede;
     color: #000
 }
@@ -151,7 +151,6 @@ table thead tr th {
 table.table-striped tbody tr:nth-of-type(odd) {
     background: #f9f9f9
 }
-
 table.result-point tr td.number {
     width: 100px;
     position: relative
@@ -166,25 +165,7 @@ table tr td {
     border: 1px solid #dedede
 }
 
-table.result-point tr td .fa.fa-caret-up {
-    color: green
-}
-
-table.result-point tr td .fa {
-    font-size: 20px;
-    position: absolute;
-    right: 20px
-}
-
 table tr td {
     padding: 10px 40px;
-    border: 1px solid #dedede
-}
-
-table tr td img {
-    max-width: 32px;
-    float: left;
-    margin-right: 11px;
-    margin-top: 1px;
     border: 1px solid #dedede
 }
