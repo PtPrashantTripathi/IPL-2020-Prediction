@@ -2,7 +2,7 @@
 	{
 		"Match":1,
 		"Day":"Sat",
-		"Date":"19-Sep",
+		"Date":"19 Sep 2020",
 		"IST":"7:30PM",
 		"team_1":"Mumbai",
 		"team_2":"CSK",
@@ -15,7 +15,7 @@
 	{
 		"Match":2,
 		"Day":"Sun",
-		"Date":"20-Sep",
+		"Date":"20 Sep 2020",
 		"IST":"7:30PM",
 		"team_1":"Delhi",
 		"team_2":"Punjab",
@@ -28,7 +28,7 @@
 	{
 		"Match":3,
 		"Day":"Mon",
-		"Date":"21-Sep",
+		"Date":"21 Sep 2020",
 		"IST":"7:30PM",
 		"team_1":"Hyderabad",
 		"team_2":"RCB",
@@ -41,7 +41,7 @@
 	{
 		"Match":4,
 		"Day":"Tue",
-		"Date":"22-Sep",
+		"Date":"22 Sep 2020",
 		"IST":"7:30PM",
 		"team_1":"Rajasthan",
 		"team_2":"CSK",
@@ -54,7 +54,7 @@
 	{
 		"Match":5,
 		"Day":"Wed",
-		"Date":"23-Sep",
+		"Date":"23 Sep 2020",
 		"IST":"7:30PM",
 		"team_1":"Kolkata",
 		"team_2":"Mumbai",
@@ -67,7 +67,7 @@
 	{
 		"Match":6,
 		"Day":"Thu",
-		"Date":"24-Sep",
+		"Date":"24 Sep 2020",
 		"IST":"7:30PM",
 		"team_1":"Punjab",
 		"team_2":"RCB",
@@ -80,7 +80,7 @@
 	{
 		"Match":7,
 		"Day":"Fri",
-		"Date":"25-Sep",
+		"Date":"25 Sep 2020",
 		"IST":"7:30PM",
 		"team_1":"CSK",
 		"team_2":"Delhi",
@@ -93,7 +93,7 @@
 	{
 		"Match":8,
 		"Day":"Sat",
-		"Date":"26-Sep",
+		"Date":"26 Sep 2020",
 		"IST":"7:30PM",
 		"team_1":"Kolkata",
 		"team_2":"Hyderabad",
@@ -106,7 +106,7 @@
 	{
 		"Match":9,
 		"Day":"Sun",
-		"Date":"27-Sep",
+		"Date":"27 Sep 2020",
 		"IST":"7:30PM",
 		"team_1":"Rajasthan",
 		"team_2":"Punjab",
@@ -119,7 +119,7 @@
 	{
 		"Match":10,
 		"Day":"Mon",
-		"Date":"28-Sep",
+		"Date":"28 Sep 2020",
 		"IST":"7:30PM",
 		"team_1":"RCB",
 		"team_2":"Mumbai",
@@ -132,7 +132,7 @@
 	{
 		"Match":11,
 		"Day":"Tue",
-		"Date":"29-Sep",
+		"Date":"29 Sep 2020",
 		"IST":"7:30PM",
 		"team_1":"Delhi",
 		"team_2":"Hyderabad",
@@ -145,7 +145,7 @@
 	{
 		"Match":12,
 		"Day":"Wed",
-		"Date":"30-Sep",
+		"Date":"30 Sep 2020",
 		"IST":"7:30PM",
 		"team_1":"Rajasthan",
 		"team_2":"Kolkata",
@@ -158,7 +158,7 @@
 	{
 		"Match":13,
 		"Day":"Thu",
-		"Date":"1-Oct",
+		"Date":"01 Oct 2020",
 		"IST":"7:30PM",
 		"team_1":"Punjab",
 		"team_2":"Mumbai",
@@ -171,7 +171,7 @@
 	{
 		"Match":14,
 		"Day":"Fri",
-		"Date":"2-Oct",
+		"Date":"02 Oct 2020",
 		"IST":"7:30PM",
 		"team_1":"CSK",
 		"team_2":"Hyderabad",
@@ -184,7 +184,7 @@
 	{
 		"Match":15,
 		"Day":"Sat",
-		"Date":"3-Oct",
+		"Date":"03 Oct 2020",
 		"IST":"3:30PM",
 		"team_1":"RCB",
 		"team_2":"Rajasthan",
@@ -197,7 +197,7 @@
 	{
 		"Match":16,
 		"Day":"Sat",
-		"Date":"3-Oct",
+		"Date":"03 Oct 2020",
 		"IST":"7:30PM",
 		"team_1":"Delhi",
 		"team_2":"Kolkata",
@@ -210,7 +210,7 @@
 	{
 		"Match":17,
 		"Day":"Sun",
-		"Date":"4-Oct",
+		"Date":"04 Oct 2020",
 		"IST":"3:30PM",
 		"team_1":"Mumbai",
 		"team_2":"Hyderabad",
@@ -223,7 +223,7 @@
 	{
 		"Match":18,
 		"Day":"Sun",
-		"Date":"4-Oct",
+		"Date":"04 Oct 2020",
 		"IST":"7:30PM",
 		"team_1":"Punjab",
 		"team_2":"CSK",
@@ -236,7 +236,7 @@
 	{
 		"Match":19,
 		"Day":"Mon",
-		"Date":"5-Oct",
+		"Date":"05 Oct 2020",
 		"IST":"7:30PM",
 		"team_1":"RCB",
 		"team_2":"Delhi",
@@ -249,7 +249,7 @@
 	{
 		"Match":20,
 		"Day":"Tue",
-		"Date":"6-Oct",
+		"Date":"06 Oct 2020",
 		"IST":"7:30PM",
 		"team_1":"Mumbai",
 		"team_2":"Rajasthan",
@@ -262,7 +262,7 @@
 	{
 		"Match":21,
 		"Day":"Wed",
-		"Date":"7-Oct",
+		"Date":"07 Oct 2020",
 		"IST":"7:30PM",
 		"team_1":"Kolkata",
 		"team_2":"CSK",
@@ -275,7 +275,7 @@
 	{
 		"Match":22,
 		"Day":"Thu",
-		"Date":"8-Oct",
+		"Date":"08 Oct 2020",
 		"IST":"7:30PM",
 		"team_1":"Hyderabad",
 		"team_2":"Punjab",
@@ -288,7 +288,7 @@
 	{
 		"Match":23,
 		"Day":"Fri",
-		"Date":"9-Oct",
+		"Date":"09 Oct 2020",
 		"IST":"7:30PM",
 		"team_1":"Rajasthan",
 		"team_2":"Delhi",
@@ -301,7 +301,7 @@
 	{
 		"Match":24,
 		"Day":"Sat",
-		"Date":"10-Oct",
+		"Date":"10 Oct 2020",
 		"IST":"3:30PM",
 		"team_1":"Punjab",
 		"team_2":"Kolkata",
@@ -314,7 +314,7 @@
 	{
 		"Match":25,
 		"Day":"Sat",
-		"Date":"10-Oct",
+		"Date":"10 Oct 2020",
 		"IST":"7:30PM",
 		"team_1":"CSK",
 		"team_2":"RCB",
@@ -327,7 +327,7 @@
 	{
 		"Match":26,
 		"Day":"Sun",
-		"Date":"11-Oct",
+		"Date":"11 Oct 2020",
 		"IST":"3:30PM",
 		"team_1":"Hyderabad",
 		"team_2":"Rajasthan",
@@ -340,7 +340,7 @@
 	{
 		"Match":27,
 		"Day":"Sun",
-		"Date":"11-Oct",
+		"Date":"11 Oct 2020",
 		"IST":"7:30PM",
 		"team_1":"Mumbai",
 		"team_2":"Delhi",
@@ -353,7 +353,7 @@
 	{
 		"Match":28,
 		"Day":"Mon",
-		"Date":"12-Oct",
+		"Date":"12 Oct 2020",
 		"IST":"7:30PM",
 		"team_1":"RCB",
 		"team_2":"Kolkata",
@@ -366,7 +366,7 @@
 	{
 		"Match":29,
 		"Day":"Tue",
-		"Date":"13-Oct",
+		"Date":"13 Oct 2020",
 		"IST":"7:30PM",
 		"team_1":"Hyderabad",
 		"team_2":"CSK",
@@ -379,7 +379,7 @@
 	{
 		"Match":30,
 		"Day":"Wed",
-		"Date":"14-Oct",
+		"Date":"14 Oct 2020",
 		"IST":"7:30PM",
 		"team_1":"Delhi",
 		"team_2":"Rajasthan",
@@ -392,7 +392,7 @@
 	{
 		"Match":31,
 		"Day":"Thu",
-		"Date":"15-Oct",
+		"Date":"15 Oct 2020",
 		"IST":"7:30PM",
 		"team_1":"RCB",
 		"team_2":"Punjab",
@@ -405,7 +405,7 @@
 	{
 		"Match":32,
 		"Day":"Fri",
-		"Date":"16-Oct",
+		"Date":"16 Oct 2020",
 		"IST":"7:30PM",
 		"team_1":"Mumbai",
 		"team_2":"Kolkata",
@@ -418,7 +418,7 @@
 	{
 		"Match":33,
 		"Day":"Sat",
-		"Date":"17-Oct",
+		"Date":"17 Oct 2020",
 		"IST":"3:30PM",
 		"team_1":"Rajasthan",
 		"team_2":"RCB",
@@ -431,7 +431,7 @@
 	{
 		"Match":34,
 		"Day":"Sat",
-		"Date":"17-Oct",
+		"Date":"17 Oct 2020",
 		"IST":"7:30PM",
 		"team_1":"Delhi",
 		"team_2":"CSK",
@@ -444,7 +444,7 @@
 	{
 		"Match":35,
 		"Day":"Sun",
-		"Date":"18-Oct",
+		"Date":"18 Oct 2020",
 		"IST":"3:30PM",
 		"team_1":"Hyderabad",
 		"team_2":"Kolkata",
@@ -457,7 +457,7 @@
 	{
 		"Match":36,
 		"Day":"Sun",
-		"Date":"18-Oct",
+		"Date":"18 Oct 2020",
 		"IST":"7:30PM",
 		"team_1":"Mumbai",
 		"team_2":"Punjab",
@@ -470,7 +470,7 @@
 	{
 		"Match":37,
 		"Day":"Mon",
-		"Date":"19-Oct",
+		"Date":"19 Oct 2020",
 		"IST":"7:30PM",
 		"team_1":"CSK",
 		"team_2":"Rajasthan",
@@ -483,7 +483,7 @@
 	{
 		"Match":38,
 		"Day":"Tue",
-		"Date":"20-Oct",
+		"Date":"20 Oct 2020",
 		"IST":"7:30PM",
 		"team_1":"Punjab",
 		"team_2":"Delhi",
@@ -496,7 +496,7 @@
 	{
 		"Match":39,
 		"Day":"Wed",
-		"Date":"21-Oct",
+		"Date":"21 Oct 2020",
 		"IST":"7:30PM",
 		"team_1":"Kolkata",
 		"team_2":"RCB",
@@ -509,7 +509,7 @@
 	{
 		"Match":40,
 		"Day":"Thu",
-		"Date":"22-Oct",
+		"Date":"22 Oct 2020",
 		"IST":"7:30PM",
 		"team_1":"Rajasthan",
 		"team_2":"Hyderabad",
@@ -522,7 +522,7 @@
 	{
 		"Match":41,
 		"Day":"Fri",
-		"Date":"23-Oct",
+		"Date":"23 Oct 2020",
 		"IST":"7:30PM",
 		"team_1":"CSK",
 		"team_2":"Mumbai",
@@ -535,7 +535,7 @@
 	{
 		"Match":42,
 		"Day":"Sat",
-		"Date":"24-Oct",
+		"Date":"24 Oct 2020",
 		"IST":"3:30PM",
 		"team_1":"Kolkata",
 		"team_2":"Delhi",
@@ -548,7 +548,7 @@
 	{
 		"Match":43,
 		"Day":"Sat",
-		"Date":"24-Oct",
+		"Date":"24 Oct 2020",
 		"IST":"7:30PM",
 		"team_1":"Punjab",
 		"team_2":"Hyderabad",
@@ -561,7 +561,7 @@
 	{
 		"Match":44,
 		"Day":"Sun",
-		"Date":"25-Oct",
+		"Date":"25 Oct 2020",
 		"IST":"3:30PM",
 		"team_1":"RCB",
 		"team_2":"CSK",
@@ -574,7 +574,7 @@
 	{
 		"Match":45,
 		"Day":"Sun",
-		"Date":"25-Oct",
+		"Date":"25 Oct 2020",
 		"IST":"7:30PM",
 		"team_1":"Rajasthan",
 		"team_2":"Mumbai",
@@ -587,7 +587,7 @@
 	{
 		"Match":46,
 		"Day":"Mon",
-		"Date":"26-Oct",
+		"Date":"26 Oct 2020",
 		"IST":"7:30PM",
 		"team_1":"Kolkata",
 		"team_2":"Punjab",
@@ -600,7 +600,7 @@
 	{
 		"Match":47,
 		"Day":"Tue",
-		"Date":"27-Oct",
+		"Date":"27 Oct 2020",
 		"IST":"7:30PM",
 		"team_1":"Hyderabad",
 		"team_2":"Delhi",
@@ -613,7 +613,7 @@
 	{
 		"Match":48,
 		"Day":"Wed",
-		"Date":"28-Oct",
+		"Date":"28 Oct 2020",
 		"IST":"7:30PM",
 		"team_1":"Mumbai",
 		"team_2":"RCB",
@@ -626,7 +626,7 @@
 	{
 		"Match":49,
 		"Day":"Thu",
-		"Date":"29-Oct",
+		"Date":"29 Oct 2020",
 		"IST":"7:30PM",
 		"team_1":"CSK",
 		"team_2":"Kolkata",
@@ -639,7 +639,7 @@
 	{
 		"Match":50,
 		"Day":"Fri",
-		"Date":"30-Oct",
+		"Date":"30 Oct 2020",
 		"IST":"7:30PM",
 		"team_1":"Punjab",
 		"team_2":"Rajasthan",
@@ -652,7 +652,7 @@
 	{
 		"Match":51,
 		"Day":"Sat",
-		"Date":"31-Oct",
+		"Date":"31 Oct 2020",
 		"IST":"3:30PM",
 		"team_1":"Delhi",
 		"team_2":"Mumbai",
@@ -665,7 +665,7 @@
 	{
 		"Match":52,
 		"Day":"Sat",
-		"Date":"31-Oct",
+		"Date":"31 Oct 2020",
 		"IST":"7:30PM",
 		"team_1":"RCB",
 		"team_2":"Hyderabad",
@@ -678,7 +678,7 @@
 	{
 		"Match":53,
 		"Day":"Sun",
-		"Date":"1-Nov",
+		"Date":"01 Nov 2020",
 		"IST":"3:30PM",
 		"team_1":"CSK",
 		"team_2":"Punjab",
@@ -691,7 +691,7 @@
 	{
 		"Match":54,
 		"Day":"Sun",
-		"Date":"1-Nov",
+		"Date":"01 Nov 2020",
 		"IST":"7:30PM",
 		"team_1":"Kolkata",
 		"team_2":"Rajasthan",
@@ -704,7 +704,7 @@
 	{
 		"Match":55,
 		"Day":"Mon",
-		"Date":"2-Nov",
+		"Date":"02 Nov 2020",
 		"IST":"7:30PM",
 		"team_1":"Delhi",
 		"team_2":"RCB",
@@ -717,7 +717,7 @@
 	{
 		"Match":56,
 		"Day":"Tue",
-		"Date":"3-Nov",
+		"Date":"03 Nov 2020",
 		"IST":"7:30PM",
 		"team_1":"Hyderabad",
 		"team_2":"Mumbai",
@@ -726,5 +726,57 @@
 		"team_1_win_prob":0.203699,
 		"team_2_win_prob":0.796301,
 		"Result":"Mumbai"
+	},
+	{
+		"Match":57,
+		"Day":"Thu",
+		"Date":"05 Nov 2020",
+		"IST":"7:30PM",
+		"team_1":"Delhi",
+		"team_2":"Mumbai",
+		"pitch_type":"dry",
+		"venue":"Dubai",
+		"team_1_win_prob":0.35300,
+		"team_2_win_prob":0.64700,
+		"Result":"Mumbai"
+	},
+	{
+		"Match":58,
+		"Day":"Fri",
+		"Date":"06 Nov 2020",
+		"IST":"7:30PM",
+		"team_1":"RCB",
+		"team_2":"Hyderabad",
+		"pitch_type":"tropical",
+		"venue":"AbuDhabi",
+		"team_1_win_prob":0.50300,
+		"team_2_win_prob":0.49700,
+		"Result":"Hyderabad"
+	},
+	{
+		"Match":59,
+		"Day":"Sun",
+		"Date":"08 Nov 2020",
+		"IST":"7:30PM",
+		"team_1":"Delhi",
+		"team_2":"Hyderabad",
+		"pitch_type":"tropical",
+		"venue":"AbuDhabi",
+		"team_1_win_prob":0.48300,
+		"team_2_win_prob":0.51700,
+		"Result":"Hyderabad"
+	},
+	{
+		"Match":60,
+		"Day":"Tue",
+		"Date":"10 Nov 2020",
+		"IST":"7:30PM",
+		"team_1":"Mumbai",
+		"team_2":"TBD",
+		"pitch_type":"dry",
+		"venue":"Dubai",
+		"team_1_win_prob":50,
+		"team_2_win_prob":50,
+		"Result":"TBH"
 	}
 ]
