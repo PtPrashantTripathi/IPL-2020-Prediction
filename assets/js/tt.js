@@ -1,4 +1,4 @@
-fetch('/assets/json/ipl2020.json').then((res) => res.json()).then((data) => {
+fetch('../assets/json/ipl2020.json').then((res) => res.json()).then((data) => {
 	let output = '';
 	data.forEach(function(i,id){
 	output += `

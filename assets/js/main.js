@@ -1,15 +1,14 @@
-fetch('/assets/json/ipl2020.json', {
+fetch('assets/json/ipl2020.json', {
 	method: 'GET'
 }).then(function(response) {
 	return response.json();
 }).then(function(json) {
 	let index = 1;
-
 	function findByKey(key, value) {
 		return (item, i) => item[key] === value
 	}
 	if (new Date('11/11/2020 00:00') < new Date()) {
-		window.location.replace("timetable.html");
+		window.location.replace("timetable");
 	} else if (window.location.search.indexOf('i') > -1) {
 		index = new URLSearchParams(window.location.search).get('i');
 	} else {
@@ -24,7 +23,9 @@ fetch('/assets/json/ipl2020.json', {
 		});
 		var t = d.getHours() + (d.getMinutes() / 60);
 		let findParams = findByKey('Date', formattedDate);
+		//let findParams = findByKey('Date', '08 Nov 2020');
 		index = json.findIndex(findParams);
+		//if(index < 0) window.location.replace("timetable"); 		
 		if (t > 18.50 && json[index].IST === "3:30 PM") index++;
 	}
 	document.getElementById("mid").innerHTML = "IPL t20 - " + json[index].Match + " of 56";
