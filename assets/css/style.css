@@ -32,11 +32,13 @@
 }
 .main_div{
         width: 100vw;
-        /*! margin: 2vw 0; */
+        margin: 2vw 0; 
         display: grid;
         place-items:center;
         background-color: hsl(0, 0%, 100%);
     }
+.table-responsive {width: max-content;	}
+
 .center_div {
     width: 600px;
     height: auto;
@@ -127,6 +129,8 @@ small{
 	}
 }
 .content-info {
+	width: 100vw;
+    background-color: hsl(0, 0%, 100%);
     background: #f9f9f9;
     padding: 40px 0;
     background-size: cover !important;

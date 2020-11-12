@@ -1,4 +1,4 @@
-fetch('assets/json/ipl2020.json', {
+fetch('../assets/json/ipl2020.json', {
 	method: 'GET'
 }).then(function(response) {
 	return response.json();
