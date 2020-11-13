@@ -1,7 +1,6 @@
 fetch('assets/json/ipl2020.json').then((res) => res.json()).then((data) => {
 	let output = '';
 	let p=0;
-	//console.log(if( data[0].Prediction == data[0].Result ) ? 'Success' : 'Danger');
 	data.forEach(function(i,id){
 	if(i.Prediction == i.Result) p++;
 	output += `
@@ -14,6 +13,6 @@ fetch('assets/json/ipl2020.json').then((res) => res.json()).then((data) => {
 		<td>${i.Result}</td>
 	</tr>`;
 	});
-	output += `<tr><td colspan="6" class="text-right"><b>Prediction Precision Per Match was ${(p/60*100).toFixed(2)}% </b></td></tr>`;
+	output += `<tr><td colspan="6" class="text-left"><b>Prediction Precision Per Match was ${(p/60*100).toFixed(2)}% </b></td></tr>`;
 	document.getElementById('ipldata').innerHTML = output;
 })
