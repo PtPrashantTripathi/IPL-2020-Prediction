@@ -37,7 +37,7 @@
         place-items:center;
         background-color: hsl(0, 0%, 100%);
     }
-.table-responsive {width: max-content;	}
+/*.table-responsive {width: max-content;}*/
 
 .center_div {
     width: 600px;
